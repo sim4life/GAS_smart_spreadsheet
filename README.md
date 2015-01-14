@@ -1,5 +1,5 @@
 # GAS Smart Spreadsheet
-This Smart Google Spreadsheet automatically fills the `created_by` &amp; `edited_at` fields for any sheet. It is using Google Apps Script accesible through `Google Spreadsheets` --> `Tools` --> `Script Editor...`
+This Smart Google Spreadsheet script automatically fills the `created_by` &amp; `edited_at` fields for any sheet. It is using Google Apps Script accesible through `Google Spreadsheets` --> `Tools` --> `Script Editor...`
 
 
 ## Assumptions:  
